@@ -11,5 +11,6 @@ public class kolaborasi {
             System.out.println("Mantap");
         }
         System.out.println("wayahe");
+        System.out.println("Ini adalah baris kode terakhir");
     }
 }
