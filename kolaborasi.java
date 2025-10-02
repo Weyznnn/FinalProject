@@ -10,5 +10,6 @@ public class kolaborasi {
         if (1+1==2) {
             System.out.println("Mantap");
         }
+        System.out.println("Ini adalah baris kode terakhir");
     }
 }
