@@ -4,5 +4,8 @@ public class kolaborasi {
         for (int i = 0; i < args.length; i++) {
             System.out.println("Saya punya "+i+" nama");
         }
+        if (1+1==2) {
+            System.out.println("Mantap");
+        }
     }
 }
