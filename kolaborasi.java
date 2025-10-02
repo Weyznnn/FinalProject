@@ -5,6 +5,7 @@ public class kolaborasi {
             System.out.println("Saya punya "+i+" nama");
             System.out.println("Nama saya adalah: " + args[i]);
             System.out.println("Ini adalah nama ke-" + (i+1));
+            System.out.println("Terima kasih telah berpartisipasi dalam projek kolaborasi ini.");
         }
     }
 }
